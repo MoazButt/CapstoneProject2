@@ -1,0 +1,53 @@
+body{
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.hero h1 {
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 3rem;
+}
+
+.hero {
+    background-color: #4A55A2;
+    font-family: 'Comic Sans MS', cursive;
+    color: #C5DFF8;
+}
+
+.hero h4 {
+    font-size: 1.5rem
+}
+
+.jumbo {
+    background-color: #7895CB;
+    color:#061384
+}
+
+.jumbo img {
+    width: 300px;
+    height:300px;
+    border-radius: 50%;
+}
+
+.jumbo p {
+    font-weight: 700;
+}
+
+.jumbo h2 {
+    font-weight: bold;
+    color:#061384;
+} 
+
+footer {
+    background-color: #DAFFFB;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+.contact {
+    background-color: #64CCC5;
+    color:#061384;
+}
